@@ -3,7 +3,7 @@
 <p align="center">Developed by Issac MacKenzie, Nico Ranin, Robert Rodriguez, and Joachim Micallef</p>
 
 ## Set-Up Instructions
-Download the repository or git clone it, and then open the project in a IDE which supports Java. If using NetBeans, you can click the green play button to run the project. If using any other Java-supporting IDE, you must ensure you are in the necessary file path. If you downloaded the repository, you must set your path in the terminal at `...Platformer-Single-Player-Branch\Platformer-Single-Player-Branch`. If you cloned the repository, you must set your path in the terminal at `...Platformer` (the name of the repository, not the folder within the program that is lowercase with the name `platformer`). Then, in the terminal, type `java src/platformer/Main.java`. The game will then open, provided that you have an extension or a JDK (specifically versions 22+) that support Java GUI.
+Download the repository or git clone it, and then open the project in a IDE which supports Java. If using NetBeans, you can click the green play button to run the project. If using any other Java-supporting IDE, you must ensure you are in the necessary file path. If you downloaded the repository, you must set your path in the terminal at `...\Platformer-Single-Player-Branch\Platformer-Single-Player-Branch`. If you cloned the repository, you must set your path in the terminal at `...\Platformer` (the name of the repository, not the folder within the program that is lowercase with the name `platformer`). Then, in the terminal, type `java src/platformer/Main.java`. The game will then open, provided that you have an extension or a JDK (specifically versions 22+) that support Java GUI.
 
 ## Controls
 | Action | Key |
